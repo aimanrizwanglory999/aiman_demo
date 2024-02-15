@@ -1,2 +1,3 @@
 # aiman_demo
-THIS IS MY FIRST GIT REPOSITORY
+This is my first  Git repository.
+Author-Aiman Rizwan
